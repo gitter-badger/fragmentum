@@ -1,5 +1,7 @@
 # Минимум сложных определений, вместо вступления.
 
+[![Join the chat at https://gitter.im/valss/fragmentum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/valss/fragmentum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __fragmentum__ -- это система созданная ее пользователями, для расплаты между пользователями на основе правил определенных большинством пользователей. 
 
 __Мы (в контексте материалов о fragmentum)__ -- это пользователи системы определяющие правила ее работы. 
